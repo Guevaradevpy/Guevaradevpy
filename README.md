@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lupi  
+# Hi 👋, I'm Esteban  
 
 🎯 **Backend Developer in training** | 4th semester Systems Engineering student  
 💻 Focused on: **Python · Django · MySQL**  
@@ -34,5 +34,5 @@
 
 ## 🤝 Connect with me  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
-📧 lupi@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/estebackend)  
+📧 https://github.com/Guevaradevpy
