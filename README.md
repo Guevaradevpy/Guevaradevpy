@@ -1,22 +1,25 @@
-# Hi 👋, I'm Esteban  
+# Hi 👋, I'm Esteban Guevara
 
-🎯 **Backend Developer in training** | 4th semester Systems Engineering student  
-💻 Focused on: **Python · Django · MySQL**  
-🚀 Passionate about backend development, APIs, and databases  
-
----
-
-## 🛠️ Languages and Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🌿**Backend Developer in training** | 4th semester Systems Engineering student  
+🌟 Focused on: **Python · Django · MySQL**  
+🌟 Passionate about backend development, APIs, and databases  
 
 ---
 
-## 📂 Featured Projects  
+## ⚡ Languages and Tools    
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;"/>
+</p>
+
+---
+
+## 🔥 Featured Projects  
 
 🔸 [Fruver API](https://github.com/Guevaradevpy/fruver-api) → CRUD with MySQL + Python  
 🔸 [Agenda CLI](https://github.com/Guevaradevpy/agenda) → Console app with file storage  
@@ -24,15 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🗂️ Connect with me  
 
-![Lupi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guevaradevpy&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guevaradevpy&layout=compact&theme=tokyonight)  
-
----
-
-## 🤝 Connect with me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/estebackend)  
-📧 https://github.com/Guevaradevpy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebackend)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.guevararo@gmail.com)
