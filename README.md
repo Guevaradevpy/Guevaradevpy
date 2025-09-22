@@ -18,7 +18,7 @@
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Future Projects  
 
 🔸 [Fruver API](https://github.com/Guevaradevpy/fruver-api) → CRUD with MySQL + Python  
 🔸 [Agenda CLI](https://github.com/Guevaradevpy/agenda) → Console app with file storage  
