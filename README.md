@@ -1,7 +1,7 @@
 # Hi 👋, I'm Esteban Guevara
 
 🌿**Backend Developer in training** | 4th semester Systems Engineering student  
-🌟 Focused on: **Python · Django · MySQL**  
+🌟 Focused on: **Python · FastAPI · MySQL**  
 🌟 Passionate about backend development, APIs, and databases  
 
 
