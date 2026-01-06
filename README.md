@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;"/>
@@ -21,8 +21,6 @@
 ## 🔥 Future Projects  
 
 🔸 [Fruver API](https://github.com/Guevaradevpy/fruver-api) → CRUD with MySQL + Python  
-🔸 [Agenda CLI](https://github.com/Guevaradevpy/agenda) → Console app with file storage  
-🔸 [Currency Converter](https://github.com/Guevaradevpy/conversor) → Python project with functions and error handling  
 
 ---
 
