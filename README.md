@@ -1,8 +1,8 @@
 # Hi 👋, I'm Esteban Guevara
 
-🌿**Junior Backend Developer** | 4th semester Systems Engineering student  
+🌿**Junior Backend Developer** | Software Analysis & Development Student  
 🚀 Building production-ready APIs with Python, FastAPI and MySQL.
-Focused on clean architecture, CRUD systems and real-world projects.
+Focused on clean architecture and real-world projects.
 
 
 ## ⚡ Languages and Tools    
@@ -20,7 +20,8 @@ Focused on clean architecture, CRUD systems and real-world projects.
 
 ## 🔥 Featured Projects  
 
- - 🛒 Fruver API — REST API for inventory, orders and users (FastAPI + MySQL)  
+ - 🛒 Fruver API — REST API for inventory, orders and users (FastAPI + MySQL)
+ - 🎰 Bookings API — RESTful Backend System for Reservations & Scheduling (FastAPI + PostgreSQL / MySQL)
 
 ---
 
